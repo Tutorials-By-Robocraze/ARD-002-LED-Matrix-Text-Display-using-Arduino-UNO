@@ -16,7 +16,8 @@ A fun project using Arduino UNO and a MAX7219 4-in-1 dot matrix display module. 
 Check out the working demo on Instagram:
 👉 [Watch the Reel](https://www.instagram.com/reel/DNKNIpbzgMQ/?igsh=aTl1M2M5dDByc3Yz)
 
-
+## Circuit Diagram
+![LED Matrix Display Circuit](./led_matrix_display_circuit_diagram.png)
 
 
 
